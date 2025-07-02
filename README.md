@@ -1,5 +1,7 @@
 # 👋 Hello, I'm M Farhan Mughal
 
+<pre> ``` ____ _ _ / ___| ___ ___ __| |_ _| | ___ ___ | | / _ \ / _ \ / _` | | | | |/ _ \/ __| | |___| (_) | (_) | (_| | |_| | | __/\__ \ \____|\___/ \___/ \__,_|\__,_|_|\___||___/ ``` </pre>
+
 🎓 Final Year BS in Artificial Intelligence | NUML Islamabad  
 📍 Islamabad, Pakistan  
 ✉️ sardarfarhanmughal627@gmail.com  
