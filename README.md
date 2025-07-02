@@ -1,7 +1,5 @@
 # 👋 Hello, I'm M Farhan Mughal
 
-
-
 🎓 Final Year BS in Artificial Intelligence | NUML Islamabad  
 📍 Islamabad, Pakistan  
 ✉️ sardarfarhanmughal627@gmail.com  
@@ -12,12 +10,12 @@
 
 ## 🧠 About Me
 
-
-Aspiring AI professional and final-year BS Artificial Intelligence student, passionate about transforming
+I'm an aspiring AI professional and final-year BS Artificial Intelligence student, passionate about transforming
 complex data into intelligent solutions. Equipped with hands-on experience in machine learning, deep
 learning, and data science, gained through real-world projects and top-rated certifications. Known for a
 strong analytical mindset, fast learning, and a drive to stay at the cutting edge of technology. Ready to
-contribute innovative thinking and technical skills to impactful AI-driven initiatives.
+contribute innovative thinking and technical skills to impactful AI-driven initiatives
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -44,7 +42,6 @@ contribute innovative thinking and technical skills to impactful AI-driven initi
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=amazon&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-00CED1?style=for-the-badge&logo=fastapi&logoColor=white)
-
 
 ### 🔹 Tools & Platforms
 
