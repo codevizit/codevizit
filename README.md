@@ -1,11 +1,6 @@
 # 👋 Hello, I'm M Farhan Mughal
 
-<pre> 
-  / | ___ | | | | ___ _ __
-| | _ / _ | / _| ' \ / _ \ '|
-| || | (_) | || (| | | | / |
-_|___/ __|| ||_|_|
-  </pre>
+
 
 🎓 Final Year BS in Artificial Intelligence | NUML Islamabad  
 📍 Islamabad, Pakistan  
