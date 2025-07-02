@@ -17,7 +17,7 @@ Aspiring AI professional and final-year BS Artificial Intelligence student, pass
 complex data into intelligent solutions. Equipped with hands-on experience in machine learning, deep
 learning, and data science, gained through real-world projects and top-rated certifications. Known for a
 strong analytical mindset, fast learning, and a drive to stay at the cutting edge of technology. Ready to
-contribute innovative thinking and technical skills to impactful AI-driven initiatives
+contribute innovative thinking and technical skills to impactful AI-driven initiatives.
 ---
 
 ## 🛠️ Tech Stack & Tools
