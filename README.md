@@ -12,8 +12,11 @@
 
 ## 🧠 About Me
 
-I'm an aspiring **AI Associate** and final-year student passionate about leveraging Artificial Intelligence to solve real-world challenges. I specialize in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **NLP** — with hands-on experience through real projects and top-rated certifications.
-
+Aspiring AI professional and final-year BS Artificial Intelligence student, passionate about transforming
+complex data into intelligent solutions. Equipped with hands-on experience in machine learning, deep
+learning, and data science, gained through real-world projects and top-rated certifications. Known for a
+strong analytical mindset, fast learning, and a drive to stay at the cutting edge of technology. Ready to
+contribute innovative thinking and technical skills to impactful AI-driven initiatives
 ---
 
 ## 🛠️ Tech Stack & Tools
