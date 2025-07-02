@@ -12,6 +12,7 @@
 
 ## 🧠 About Me
 
+
 Aspiring AI professional and final-year BS Artificial Intelligence student, passionate about transforming
 complex data into intelligent solutions. Equipped with hands-on experience in machine learning, deep
 learning, and data science, gained through real-world projects and top-rated certifications. Known for a
