@@ -36,8 +36,11 @@ I'm an aspiring **AI Associate** and final-year student passionate about leverag
 
 ### 🔹 AI Domains
 
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FFD700?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=amazon&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00CED1?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### 🔹 Tools & Platforms
 
