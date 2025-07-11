@@ -4,7 +4,7 @@
 📍 Islamabad, Pakistan  
 ✉️ sardarfarhanmughal627@gmail.com  
 📞 0302-1822728  
-🔗 [LinkedIn](https://www.linkedin.com/in/mfarhanmughal) | [CV](./M_Farhan_Mughal.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/mfarhanmughal) | [CV](./M_Farhan_Mughal_Updated.pdf)
 
 ---
 
