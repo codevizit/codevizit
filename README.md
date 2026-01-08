@@ -1,6 +1,6 @@
 # 👋 Hello, I'm M Farhan Mughal
 
-🎓 Final Year BS in Artificial Intelligence | NUML Islamabad  
+🎓 BS Artificial Intelligence Graduate | NUML Islamabad  
 📍 Islamabad, Pakistan  
 ✉️ sardarfarhanmughal627@gmail.com  
 📞 0302-1822728  
@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I'm an aspiring AI professional and final-year BS Artificial Intelligence student, passionate about transforming
+I'm an aspiring AI professional and BS Artificial Intelligence graduate, passionate about transforming
 complex data into intelligent solutions. Equipped with hands-on experience in machine learning, deep
 learning, and data science, gained through real-world projects and top-rated certifications. Known for a
 strong analytical mindset, fast learning, and a drive to stay at the cutting edge of technology. Ready to
@@ -60,6 +60,7 @@ contribute innovative thinking and technical skills to impactful AI-driven initi
 - 🗓️ **Meeting Assistant** – Note-taking, reminders using NLP  
 - 🖼️ **Image Captioning App** – Combine computer vision with language generation  
 - 🎯 **AI Career Coach** – Personalized AI-driven career path suggestions
+- 🎯 **Agentic Chatbot with RAG and Tools** – AI chatbot capable of retrieving and reasoning over external knowledge using RAG.
 
 ---
 
