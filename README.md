@@ -1,90 +1,104 @@
-# 👋 Hello, I'm M Farhan Mughal
+# 👋 Hi, I'm M Farhan Mughal
 
-🎓 BS Artificial Intelligence Graduate | NUML Islamabad  
-📍 Islamabad, Pakistan  
-✉️ sardarfarhanmughal627@gmail.com  
-📞 0302-1822728  
-🔗 [LinkedIn](https://www.linkedin.com/in/mfarhanmughal) | [CV](./M_Farhan_Mughal_Updated.pdf)
+**AI/ML Engineer** · RAG Systems · Agentic AI · Backend Development
+
+🎓 BS Artificial Intelligence, NUML Islamabad
+💼 AI/ML Engineer at [EMRChains](https://emrchains.com) (NSTP, NUST)
+📍 Islamabad, Pakistan
+✉️ sardarfarhanmughal627@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mfarhanmughal) 
 
 ---
 
 ## 🧠 About Me
 
-I'm an aspiring AI professional and BS Artificial Intelligence graduate, passionate about transforming
-complex data into intelligent solutions. Equipped with hands-on experience in machine learning, deep
-learning, and data science, gained through real-world projects and top-rated certifications. Known for a
-strong analytical mindset, fast learning, and a drive to stay at the cutting edge of technology. Ready to
-contribute innovative thinking and technical skills to impactful AI-driven initiatives
+I build production AI systems: retrieval-augmented generation (RAG) pipelines, tool-using agents, and the
+backend services that keep them running. At EMRChains I design and ship AI products end to end, from
+retrieval and orchestration logic to deployment on Google Cloud.
+
+Beyond that, I work across computer vision, fine-tuning, voice AI, and IoT/ML systems, and I take on
+automation projects with n8n and GoHighLevel.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Experience
 
-### 🔹 Programming & Scripting
+- **AI/ML Engineer, EMRChains (NSTP NUST)**: Jan 2026 – Present
+- **AI Developer Intern, Wise Tech**: Jan 2025 – Jun 2025
+- **Tech Intern, Knodemy**: Oct 2025
 
+---
+
+## 🚀 Selected Work
+
+- 🏥 **Multi-hospital AI Chatbot**: agentic assistant with hybrid retrieval (BM25 + dense vectors in Qdrant), tool calling, and OTP verification, built on FastAPI and PostgreSQL
+- 📄 **Medical Billing Extraction Pipeline**: two-agent OCR + LLM flow that turns scanned bills into structured JSON
+- 🤖 **Agentic Chatbot with RAG and Tools**: reasons over external knowledge and calls tools
+- 🎙️ **Real-time Voice Bot**: STT → LLM → TTS pipeline with VAD and barge-in
+- 👁️ **Computer Vision**: YOLOv8 detection and Vision Transformer fine-tuning with QLoRA
+- 🌱 **Smart Irrigation System**: IoT + ML system, originally my final year project
+- 🎯 **AI Career Coach**, 🗓️ **Meeting Assistant**, 🖼️ **Image Captioning App**
+
+> 💡 Add repo links next to each project you've made public.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🔹 Machine & Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🔹 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🔹 AI Domains
-
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=amazon&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00CED1?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🔹 Tools & Platforms
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🔹 Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/VertexAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
+
+### 🔹 Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🚀 Projects
-
-- 🤖 **Chatbot & Virtual Assistant** – Smart conversational interface  
-- 🗓️ **Meeting Assistant** – Note-taking, reminders using NLP  
-- 🖼️ **Image Captioning App** – Combine computer vision with language generation  
-- 🎯 **AI Career Coach** – Personalized AI-driven career path suggestions
-- 🎯 **Agentic Chatbot with RAG and Tools** – AI chatbot capable of retrieving and reasoning over external knowledge using RAG.
+### 🔹 Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1A73E8?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 AI Specialization – DeepLearning.AI (Coursera)  
-- 🧠 Generative AI Applications – IBM (Coursera)  
-- 👁️‍🗨️ Computer Vision – IBM (Coursera)  
-- 🐍 Python for Everybody – University of Michigan  
-- ✍️ Freelancing & Graphic Designing – DigiSkills.pk  
-- ☁️ Introducing Generative AI with AWS (incl. S3 usage for GenAI)
+- 🎓 AI Specialization: DeepLearning.AI (Coursera)
+- 🧠 Generative AI Applications: IBM (Coursera)
+- 👁️ Computer Vision: IBM (Coursera)
+- 🐍 Python for Everybody: University of Michigan
+- ☁️ Introducing Generative AI with AWS
+- ✍️ Freelancing & Graphic Designing: DigiSkills.pk
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codevizit&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codevizit&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevizit&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-Feel free to connect and collaborate — whether it’s a research idea, internship, or open-source project.
+Open to collaborations on RAG, agentic AI, and applied ML projects, as well as research and internship
+opportunities.
 
-📫 Reach me at: **sardarfarhanmughal627@gmail.com**
-
+📫 **sardarfarhanmughal627@gmail.com**
