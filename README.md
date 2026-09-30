@@ -40,7 +40,6 @@ automation projects with n8n and GoHighLevel.
 - 🎯 **AI Career Coach**, 🗓️ **Meeting Assistant**, 🖼️ **Image Captioning App**
 
 > 💡 Add repo links next to each project you've made public.
-
 ---
 
 ## 🛠️ Tech Stack
